@@ -1,1 +1,2 @@
 [Sun Jun 15 05:37:15 PHT 2014] -> Change bin/sh hard link from /bin/dash to /bin/bash
+[Sun Jun 15 08:45:47 PHT 2014] -> Findutils version 4.4.2 might not be in the official download site and must be downloaded from lfs site
