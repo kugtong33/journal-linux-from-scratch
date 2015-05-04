@@ -2,3 +2,4 @@ sources/*.tar.xz
 sources/*.tar.gz
 sources/*.tar.bz2
 sources/*.patch
+LFS-BOOK-7.5.pdf

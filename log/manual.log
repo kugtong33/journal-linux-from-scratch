@@ -1,0 +1,12 @@
+# This is a list for the manuals you are going
+# to read. To read the manual just type in the
+# prompt man <command>. The commands are listed
+# below.
+
+- exec
+- env
+- useradd
+- passwd
+- chown
+- groupadd
+- make
